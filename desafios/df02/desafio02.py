@@ -1,0 +1,7 @@
+enunciado = input('=======Desafio 02 =======')
+print(enunciado)
+nome = input(' Digite seu nome: ')
+dia = input(' Dia = ')
+mes = input(' Mes = ')
+ano = input(' Ano = ')
+print(nome, 'você nasceu no dia',dia , 'de ', mes, 'de', ano,'.', 'Correto!')
